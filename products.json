@@ -1,19 +1,76 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "products": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "description": "Product Description 1",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "description": "Product Description 2",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 3,
+            "name": "Product 3",
+            "description": "Product Description 3",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 4,
+            "name": "Product 4",
+            "description": "Product Description 4",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 5,
+            "name": "Product 5",
+            "description": "Product Description 5",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 6,
+            "name": "Product 6",
+            "description": "Product Description 6",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 7,
+            "name": "Product 7",
+            "description": "Product Description 7",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 8,
+            "name": "Product 8",
+            "description": "Product Description 8",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 9,
+            "name": "Product 9",
+            "description": "Product Description 9",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 10,
+            "name": "Product 10",
+            "description": "Product Description 10",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 11,
+            "name": "Product 11",
+            "description": "Product Description 11",
+            "img": "https://via.placeholder.com/300x200"
+        },
+        {
+            "id": 12,
+            "name": "Product 12",
+            "description": "Product Description 12",
+            "img": "https://via.placeholder.com/300x200"
+        }
+    ]
 }

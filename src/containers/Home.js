@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 import Product from '../components/Product';
 
-const PRODUCTS_API_URL = 'http://localhost:3001/products';
+const PRODUCTS_API_URL = 'https://nevo-json-server.herokuapp.com/products';
 
 const Home = () => {
     const [products, setProducts] = useState([]);

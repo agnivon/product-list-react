@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
 
-const PRODUCTS_API_URL = 'http://localhost:3001/products';
+const PRODUCTS_API_URL = 'https://nevo-json-server.herokuapp.com/products';
 
 const ProductDetails = () => {
     const [product, setProduct ] = useState({});
